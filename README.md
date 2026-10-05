@@ -1,6 +1,8 @@
 # miivefa
 Exploratory Factor Analysis Using Model Implied Instrumental Variables Use miivefa (MIIVefa) With (In) R Software
 
+https://www.youtube.com/watch?v=PR1mNTUZQnc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
